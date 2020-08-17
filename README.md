@@ -11,16 +11,14 @@ Features V1, V2, ... V28 are the principal components obtained with PCA, the onl
 
 During model building I covered  data science concepts such as data load and cleaning, feature scaling,modelling  etc
 
-##Algorithm implemented :
+Algorithm implemented :
 
 ISOLATION FOREST :Isolation Forest is an unsupervised anomaly detection algorithm that uses the two properties “Few” and “Different” of anomalies to detect their existence. Since anomalies are few and different, they are more susceptible to isolation
 Local Outlier Factor :The Local Outlier Factor (LOF) algorithm is an unsupervised anomaly detection method which computes the local density deviation of a given data point with respect to its neighbors.
 
-Naive Bayes:
+Naive Bayes::Naive Bayes is a classification algorithm for binary (two-class) and multi-class classification problems. The technique is easiest to understand when described using binary or categorical input values.
 
-Naive Bayes is a classification algorithm for binary (two-class) and multi-class classification problems. The technique is easiest to understand when described using binary or categorical input values.
-
-Technology and tools wise this project covers,
+Technology and tools used for  this project covers,
 
 Python
 
