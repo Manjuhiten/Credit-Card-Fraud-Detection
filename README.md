@@ -15,9 +15,11 @@ Algorithm implemented :
 
 ISOLATION FOREST :Isolation Forest is an unsupervised anomaly detection algorithm that uses the two properties “Few” and “Different” of anomalies to detect their existence. Since anomalies are few and different, they are more susceptible to isolation
 Local Outlier Factor :The Local Outlier Factor (LOF) algorithm is an unsupervised anomaly detection method which computes the local density deviation of a given data point with respect to its neighbors.
+
 Naive Bayes
 
 Technology and tools wise this project covers,
+
 Python
 Numpy and Pandas for data cleaning
 Matplotlib for data visualization
