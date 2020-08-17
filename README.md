@@ -9,14 +9,16 @@ The dataset contains two-days credit card transactions made in September 2013 by
 Features V1, V2, ... V28 are the principal components obtained with PCA, the only features which have not been transformed with PCA are 'Time' and 'Amount'. Feature 'Time' contains the seconds elapsed between each transaction and the first transaction in the dataset. Feature 'Class' is the target variable with value 1 in case of fraud and 0 otherwise
 
 
-During model building I covered almost all data science concepts such as data load and cleaning, feature scaling,modelling  etc
+During model building I covered  data science concepts such as data load and cleaning, feature scaling,modelling  etc
 
-Algorithm implemented :
+##Algorithm implemented :
 
 ISOLATION FOREST :Isolation Forest is an unsupervised anomaly detection algorithm that uses the two properties “Few” and “Different” of anomalies to detect their existence. Since anomalies are few and different, they are more susceptible to isolation
 Local Outlier Factor :The Local Outlier Factor (LOF) algorithm is an unsupervised anomaly detection method which computes the local density deviation of a given data point with respect to its neighbors.
 
-Naive Bayes
+Naive Bayes:
+
+Naive Bayes is a classification algorithm for binary (two-class) and multi-class classification problems. The technique is easiest to understand when described using binary or categorical input values.
 
 Technology and tools wise this project covers,
 
